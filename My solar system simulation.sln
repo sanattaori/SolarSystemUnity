@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{862C8A4E-20D0-C2ED-27DD-0C9628CD77A7}") = "My solar system simulation", "Assembly-CSharp.csproj", "{93D57519-D111-ABA6-C83E-4ACAB7B594FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93D57519-D111-ABA6-C83E-4ACAB7B594FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93D57519-D111-ABA6-C83E-4ACAB7B594FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93D57519-D111-ABA6-C83E-4ACAB7B594FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93D57519-D111-ABA6-C83E-4ACAB7B594FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
